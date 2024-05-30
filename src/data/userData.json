@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Kira Tantari",
+        "location": "Toledo, Ohio Metropolitan Area",
+        "image": "./images/self.JPG",
+        "bio": "Front-end developer and pug enthusiast",
+        "socials": [
+            {
+                "site": "GitHub",
+                "src": "https://github.com/KirativeWD"
+            },
+            {
+                "site": "Frontend Mentor",
+                "src": "https://www.frontendmentor.io/profile/KirativeWD"
+            },
+            {
+                "site": "LinkedIn",
+                "src": "https://www.linkedin.com/in/kira-tantari/"
+            },
+            {
+                "site": "Kirative Designs",
+                "src": "https://kirativedesigns.com"
+            }
+        ]
+    }
+]
