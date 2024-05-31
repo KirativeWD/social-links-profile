@@ -21,6 +21,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![Desktop display of KirativeWD's social links profile solution](https://github.com/KirativeWD/social-links-profile/assets/46665152/85351fa2-c1c4-4795-9171-16943e3f940d)
 
 ### Links
 
