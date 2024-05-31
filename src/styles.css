@@ -37,6 +37,7 @@
 }
 
 body {
+    padding-inline: 5%;
     color: var(--clr-neutral-100);
     font-family: var(--ff-body);
     font-size: var(--fs-paragraph);
