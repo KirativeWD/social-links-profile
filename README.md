@@ -12,8 +12,6 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,22 +24,53 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution Live Site: [GH Pages](https://kirativewd.github.io/social-links-profile/)
+- Solutions List: [KirativeWD Solutions](https://www.frontendmentor.io/profile/KirativeWD/solutions)
 
 ## My process
 
+Personalized the challenge with a userData.json file that can be edited to display different data.
+
+```json
+{
+    "name": "",
+    "location": "",
+    "image": "",
+    "alt": "",
+    "bio": "",
+    "socials": [
+        {
+            "site": "",
+            "src": ""
+        },
+        {
+            "site": "",
+            "src": ""
+        },
+        {
+            "site": "",
+            "src": ""
+        },
+        {
+            "site": "",
+            "src": ""
+        },
+        {
+            "site": "",
+            "src": ""
+        }
+    ]
+}
+
+```
+
 ### Built with
 
-- Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Kirative Designs](https://kirativedesigns.com)
+- Frontend Mentor - [KirativeWD](https://www.frontendmentor.io/profile/KirativeWD)
+- LinkedIn - [Kira Tantari](https://www.linkedin.com/in/kira-tantari/)
